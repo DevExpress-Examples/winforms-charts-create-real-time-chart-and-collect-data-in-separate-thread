@@ -1,20 +1,20 @@
-﻿Imports DevExpress.XtraEditors
+Imports DevExpress.XtraEditors
 Imports System
 Imports System.Windows.Forms
 
 Namespace RealTimeChartUpdates
-	Friend Module Program
 
-		<STAThread>
-		Sub Main()
-			WindowsFormsSettings.ForceDirectXPaint()
-			WindowsFormsSettings.SetDPIAware()
-			WindowsFormsSettings.AllowDpiScale = True
-			WindowsFormsSettings.AllowAutoScale = DevExpress.Utils.DefaultBoolean.True
-			Application.EnableVisualStyles()
-			Application.SetCompatibleTextRenderingDefault(False)
-			Application.Run(New Form1())
+    Friend Module Program
 
-		End Sub
-	End Module
+        <STAThread>
+        Sub Main()
+            Call WindowsFormsSettings.ForceDirectXPaint()
+            Call WindowsFormsSettings.SetDPIAware()
+            WindowsFormsSettings.AllowDpiScale = True
+            WindowsFormsSettings.AllowAutoScale = DevExpress.Utils.DefaultBoolean.True
+            Call Application.EnableVisualStyles()
+            Application.SetCompatibleTextRenderingDefault(False)
+            Call Application.Run(New Form1())
+        End Sub
+    End Module
 End Namespace
