@@ -51,7 +51,7 @@ Namespace RealTimeChartUpdates
             diagram.AxisX.VisualRange.EndSideMargin = 200
             diagram.DependentAxesYRange = DefaultBoolean.True
             diagram.AxisY.WholeRange.AlwaysShowZeroLevel = False
-            Dim timer As System.Windows.Forms.Timer = New System.Windows.Forms.Timer()
+            Dim timer As Windows.Forms.Timer = New Windows.Forms.Timer()
             timer.Interval = 100
             timer.Start()
             AddHandler timer.Tick, AddressOf Timer_Tick
