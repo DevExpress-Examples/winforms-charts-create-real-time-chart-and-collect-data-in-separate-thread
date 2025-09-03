@@ -15,7 +15,7 @@ The chart processes points that are within its viewport. In this example, points
 
 ## Documentation
 
-* [Create a Real-Time Chart](https://docs.devexpress.com/WindowsForms/401813/controls-and-libraries/chart-control/examples/creating-charts/providing-data/how-to-create-a-real-time-chart?v=23.1&p=netframework)
+* [Create a Real-Time Chart](https://docs.devexpress.com/WindowsForms/401813/controls-and-libraries/chart-control/examples/creating-charts/providing-data/how-to-create-a-real-time-chart)
 
 ## More Examples
 
