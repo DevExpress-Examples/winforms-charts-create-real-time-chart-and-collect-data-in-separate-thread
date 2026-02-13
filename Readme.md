@@ -22,7 +22,7 @@ The chart processes points that are within its viewport. In this example, points
 * [How to: Create a Real-Time Chart](https://github.com/DevExpress-Examples/xtracharts-how-to-create-a-real-time-chart)
 * [Chart for WinForms - Use the SwiftPlot Diagram to Create a Real-Time Chart](https://github.com/DevExpress-Examples/winforms-charts-configure-swift-plot-chart)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-create-real-time-chart-and-collect-data-in-separate-thread&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-create-real-time-chart-and-collect-data-in-separate-thread&~~~was_helpful=no)
 
